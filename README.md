@@ -97,6 +97,7 @@ This project follows a structured **ETL + ROLAP + Visualization** workflow:
 ## **📬 Contact**
 📢 Found this project useful? **Give it a ⭐ on GitHub!**  
 This project wouldn't have been realized without the support and strong passion of my dear colleague **[Mayssam Hassen](https://www.linkedin.com/in/mayssam-hassen-58a615252/)** 🌟.
+
 For inquiries or collaboration, feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/ahmedmnaouer/) or [Email](ahmedmnaouer101@gmail.com)**.   
 
 ---
